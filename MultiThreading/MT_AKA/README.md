@@ -6,5 +6,6 @@
 Application objective is to read the text files in the "fileFolder" concurrently in a multi threaded environment by using the Akka framework.
 
 **Screenshot**
+
 ![akka-screehsot](https://cloud.githubusercontent.com/assets/18182515/26091180/a58f301e-39d7-11e7-8a99-28999e944631.png)
 
